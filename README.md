@@ -225,6 +225,8 @@ align:center;
 
 
 }
+.blue1{
+border-top : 1px solid #008cba;}
   </style>
 </head>
 
@@ -292,8 +294,9 @@ align:center;
       <div id="contact"> Email: reach@edufix.co.in </div>
  
     </div>
-    <div color="blue";>&copy; 2018 EduFix</div>
-
+    <hr class="blue1">
+    <div color="blue";>&copy; 2019 EduFix</div>
+<hr class="blue1">
 </body>
 
 </html>
