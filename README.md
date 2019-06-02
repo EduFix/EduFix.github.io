@@ -210,13 +210,13 @@ color:#008cba;
     </div>
   </header>
   <br><br>
-  <center> <img src="https://smedia2.intoday.in/indiatoday/images/stories/2017March/careet-after-graduation_041317033143.jpg" class="bg">
+  <img src="https://smedia2.intoday.in/indiatoday/images/stories/2017March/careet-after-graduation_041317033143.jpg" class="bg">
     <p id="central">
       <h1> Unsure of how to go about your future? </h1>
     </p>
     <div id="cont1">
-      <p>
-        <center> <i>Are you in a dilemma about your career choices?<br> Can't find a course you wish to pursue? <br> Figure out your interests and engage with experts!<br> Get to know more about your dream colleges! </i> </p>
+      
+         <i>Are you in a dilemma about your career choices?<br> Can't find a course you wish to pursue? <br> Figure out your interests and engage with experts!<br> Get to know more about your dream colleges! </i> 
     </div>
 
     <p style="font-size:160%;"><b>Explore common career options! </b><br> </p>
