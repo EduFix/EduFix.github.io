@@ -218,6 +218,7 @@ color:silver;
 
 hr{
 border-top: 1px dashed silver;
+
 }
   </style>
 </head>
