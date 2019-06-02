@@ -222,8 +222,7 @@ border-top: 1px dashed silver;
 }
 #chat{
 float:right;
-margin-right:auto;
-margin-bottom:auto;
+align: right;
 
 }
   </style>
@@ -292,7 +291,7 @@ margin-bottom:auto;
       <div id="contact"> Email: reach@edufix.co.in </div>
  
     </div>
-           <iframe allow="microphone;" width="350" height="400" src="https://console.dialogflow.com/api-client/demo/embedded/89178810-d061-4e43-9f7b-f49550aed49c" id="chat"> </iframe>
+           <iframe allow="microphone;" width="350" height="800" src="https://console.dialogflow.com/api-client/demo/embedded/89178810-d061-4e43-9f7b-f49550aed49c" id="chat"> </iframe>
 </body>
 
 </html>
