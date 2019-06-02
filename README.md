@@ -1,5 +1,4 @@
 # EduFix.github.io
-Website of EduFix
 <html>
 <head>
   <title>EduFix </title>
