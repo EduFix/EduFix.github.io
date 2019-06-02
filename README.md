@@ -222,6 +222,8 @@ border-top: 1px dashed silver;
 }
 #chat{
 float:right;
+margin-right:auto;
+margin-bottom:auto;
 
 }
   </style>
