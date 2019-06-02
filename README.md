@@ -207,7 +207,8 @@ color:#008cba;
 }
 
 #line{
-padding:10px;
+height:10px;
+width:100%;
 color:silver;
 }
   </style>
