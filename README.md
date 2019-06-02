@@ -97,21 +97,21 @@ html {
 }
 
 #engg {
-  height: 10%;
-  width: 10%;
+  height: 20%;
+  width: 20%;
 }
 #doc {
-  height: 10%;
-  width: 10%;
+  height: 20%;
+  width: 20%;
 }
 #lawyer {
-  height: 15%;
-  width: 15%;
+  height: 25%;
+  width: 25%;
 }
 
 #designer {
-  height: 10%;
-  width: 10%;
+  height: 20%;
+  width: 20%;
 }
 
 #help {
@@ -268,12 +268,7 @@ border-top: 1px dashed silver;
 
       <div id="hire"><i> <h2>Are you an academic counsellor or career expert looking for opportunities?<br> Mail us your resume and we will get back to you! </h2> </i> 
         </div> 
-<iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/89178810-d061-4e43-9f7b-f49550aed49c">
-</iframe>
+        <hr>
 
     <br> <br> <br><br> <br>
     <div class="ft">
@@ -282,7 +277,6 @@ border-top: 1px dashed silver;
       <img src="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1710/faysalfarhan171002888/88645943-email-icon-isolated-on-cyan-blue-round-button-abstract-illustration.jpg" id="mail">
       <div id="contact"> Email: reach@edufix.co.in </div>
     </div>
-    
 
 </body>
 
