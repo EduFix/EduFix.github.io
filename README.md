@@ -243,7 +243,7 @@ color:#008cba;
     <img src="https://image.freepik.com/free-vector/young-girl-with-pencil-flat-vector-illustration_82574-4746.jpg" id="designer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRyYGP8Pyzgh_kY2732-bqUXY63FekwxVWFQaufrkEemEhUAghA" id="acct">
 
-    <br> <br> <p style="font-size:160%;"> <em>  Not found the career you are looking for? <br> Want to set off on a unique path? </i> <br> <br> </em> </p> 
+    <br> <br> <p style="font-size:160%;"> <em>  Not found the career you are looking for? <br> Want to set off on a unique path? <br> <br> </em> </p> 
 
     
       <p style="font-size:160%;" class="blue"> We are here to help you! <br> Schedule online counselling sessions with career experts and academic consultants! </div> <br> <br> </p>
