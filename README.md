@@ -4,9 +4,8 @@
   <title>EduFix </title>
   <link href="https://fonts.googleapis.com/css?family=Baloo+Da&display=swap" rel="stylesheet">
   <script>
-  document.getElementById("reg").onclick = function() {
-  window.location = "https://codepen.io/malavikasmenon/full/EzGppz";
-};
+  
+
   </script>
   <style>
   body {
