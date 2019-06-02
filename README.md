@@ -55,6 +55,7 @@
 body,
 html {
   height: 100%;
+  text-align:center;
 }
 
 
