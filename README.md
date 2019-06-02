@@ -207,7 +207,7 @@ color:#008cba;
 }
 
 #line{
-height:10px;
+height:20px;
 width:100%;
 color:silver;
 }
