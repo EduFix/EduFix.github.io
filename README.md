@@ -159,7 +159,7 @@ color:#008cba;
   display:block;
   margin-left:auto;
   margin-right:auto;
-  margin-bottom:30px;
+  margin-bottom:0px;
   
   
 }
@@ -222,9 +222,8 @@ border-top: 1px dashed silver;
 
 }
 #chat{
-float:right;
-align:right;
-margin-right:0px;
+align:centre;
+margin-right:10px;
 
 }
   </style>
