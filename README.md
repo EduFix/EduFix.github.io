@@ -292,6 +292,8 @@ align:center;
       <div id="contact"> Email: reach@edufix.co.in </div>
  
     </div>
+    <div color="blue";>&copy; 2018 EduFix</div>
+
 </body>
 
 </html>
