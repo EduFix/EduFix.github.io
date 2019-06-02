@@ -222,8 +222,8 @@ border-top: 1px dashed silver;
 
 }
 #chat{
-align:centre;
-margin-right:10px;
+align:center;
+
 
 }
   </style>
@@ -268,8 +268,8 @@ margin-right:10px;
 
     
       <p style="font-size:160%;" class="blue"><strong> We are here to help you! <br> Schedule online counselling sessions with career experts and academic consultants! </strong> <br> <br> </p>
-
-  <button id="reg">  <strong>   Register with us </strong> </button> 
+<a href="https://codepen.io/malavikasmenon/full/EzGppz">
+  <button id="reg" >  <strong>   Register with us </strong> </button> </a>
   
   <hr> 
     
@@ -281,6 +281,7 @@ margin-right:10px;
         </div> 
         
         <hr>
+           <iframe allow="microphone;" width="350" height="350" src="https://console.dialogflow.com/api-client/demo/embedded/89178810-d061-4e43-9f7b-f49550aed49c" id="chat"> </iframe>
 
 
     <br> <br> <br><br> <br>
@@ -292,7 +293,6 @@ margin-right:10px;
       <div id="contact"> Email: reach@edufix.co.in </div>
  
     </div>
-           <iframe allow="microphone;" width="350" height="200" src="https://console.dialogflow.com/api-client/demo/embedded/89178810-d061-4e43-9f7b-f49550aed49c" id="chat"> </iframe>
 </body>
 
 </html>
